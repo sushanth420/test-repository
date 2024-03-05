@@ -1,0 +1,22 @@
+#addition
+num1=float(input("enter first number:"))
+num2=float(input("enter second number:"))
+sum=num1+num2
+print("the sum is:",sum)
+#substraction
+num1=float(input("enter first number:"))
+num2=float(input("enter second number:"))
+diff=num1-num2
+print("the diff is:",diff)
+#multiplication
+num1=float(input("enter first number:"))
+num2=float(input("enter second number:"))
+product=num1*num2
+print("the product is:",product)
+#division
+num1=float(input("enter first number:"))
+num2=float(input("enter second number:"))
+quotient=num1/num2
+print("the quotient is:",quotient)
+
+
